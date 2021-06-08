@@ -56,7 +56,7 @@ Please see the instructions for [Jupyter Lab][jupyter-docs] for details on using
 [Jupyter]: https://jupyter.org/
 [jupyter-docs]: https://jupyterlab.readthedocs.io/en/latest/
 [Binder]: https://mybinder.org/
-[Installation]: https://github.com/apetkau/genomics-data-index#3-installation
+[installation]: https://github.com/apetkau/genomics-data-index#3-installation
 [tutorial1-nbviewer]: https://nbviewer.jupyter.org/github/apetkau/genomics-data-index-examples/blob/main/examples/tutorial-1-salmonella.ipynb
 [tutorial2-nbviewer]: https://nbviewer.jupyter.org/github/apetkau/genomics-data-index-examples/blob/main/examples/tutorial-2-sars-cov-2.ipynb
 [tutorial1-binder]: https://mybinder.org/v2/gh/apetkau/genomics-data-index-examples/main?urlpath=lab%2Ftree%2Fexamples%2Ftutorial-1-salmonella.ipynb
