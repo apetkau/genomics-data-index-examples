@@ -1,0 +1,4 @@
+/example/*.zip
+.ipynb_checkpoints/
+/example/*.aln
+/example/*.pdf
