@@ -47,6 +47,7 @@ QT_QPA_PLATFORM="offscreen" jupyter lab
 
 Please see the instructions for [Jupyter Lab][jupyter-docs] for details on using Jupyter.
 
+[genomics-data-index]: https://github.com/apetkau/genomics-data-index
 [tutorial1]: examples/tutorial-1-salmonella.ipynb
 [tutorial2]: examples/tutorial-2-sars-cov-2.ipynb
 [conda]: https://docs.conda.io/en/latest/
@@ -55,6 +56,6 @@ Please see the instructions for [Jupyter Lab][jupyter-docs] for details on using
 [Jupyter]: https://jupyter.org/
 [jupyter-docs]: https://jupyterlab.readthedocs.io/en/latest/
 [Binder]: https://mybinder.org/
-[tutorial1-binder]: https://mybinder.org/v2/gh/apetkau/genomics-data-index/development?urlpath=lab%2Ftree%2Fdocs%2Ftutorial%2Ftutorial-1-salmonella.ipynb
-[tutorial2-binder]: https://mybinder.org/v2/gh/apetkau/genomics-data-index/development?urlpath=lab%2Ftree%2Fdocs%2Ftutorial%2Ftutorial-2-sars-cov-2.ipynb
+[tutorial1-binder]: https://mybinder.org/v2/gh/apetkau/genomics-data-index-examples/main?urlpath=lab%2Ftree%2Fexamples%2Ftutorial-1-salmonella.ipynb
+[tutorial2-binder]: https://mybinder.org/v2/gh/apetkau/genomics-data-index-examples/main?urlpath=lab%2Ftree%2Fexamples%2Ftutorial-2-sars-cov-2.ipynb
 
