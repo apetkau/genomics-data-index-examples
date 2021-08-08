@@ -1,4 +1,8 @@
 /fastq/
+/assemblies/
 /commands.txt
+/assembly-commands.txt
 /salmonella-project
 /salmonella-project.zip
+/*.tsv
+/*.csv
