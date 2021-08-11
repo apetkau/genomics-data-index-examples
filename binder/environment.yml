@@ -12,6 +12,11 @@ dependencies:
   - htslib
   - ete3
   - snpeff
+
+  # Set SQLAlchemy version here since previously version 1.3 was being installed
+  # and it is incompatible with genomics-data-index
+  - sqlalchemy>=1.4
+
   - pip
   - pip:
     - genomics-data-index==0.2.0
