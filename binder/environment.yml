@@ -4,6 +4,9 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  # Need to restrict setuptools due to issue with pyvcf package
+  - setuptools<58
+
   - bedtools
   - pyqt
   - iqtree
