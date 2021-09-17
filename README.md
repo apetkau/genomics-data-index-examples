@@ -49,6 +49,7 @@ QT_QPA_PLATFORM="offscreen" jupyter lab
 
 Please see the instructions for [Jupyter Lab][jupyter-docs] for details on using Jupyter.
 
+
 [genomics-data-index]: https://github.com/apetkau/genomics-data-index
 [tutorial1]: examples/tutorial-1-salmonella.ipynb
 [tutorial2]: examples/tutorial-2-sars-cov-2.ipynb
