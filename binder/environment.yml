@@ -22,5 +22,5 @@ dependencies:
 
   - pip
   - pip:
-    - genomics-data-index==0.3.1
+    - genomics-data-index==0.4.0
 prefix: /home/apetkau/miniconda3/envs/gdi
