@@ -3,7 +3,7 @@
 
 This repository contains examples for the [genomics-data-index][] project, which is a system which can index large amounts of genomics data and enable rapid querying of this data.
 
-**Indexing** breaks genomes up into individual features (*nucleotide mutations*, *k-mers*, or *genes/MLST*)
+**Indexing** breaks genomes up into individual features (*nucleotide mutations*, *kmers*, or *genes/MLST*)
 and stores the index in a directory which can easily be shared with other people. Indexes can be generated 
 direct from sequence data or loaded from existing intermediate files (e.g., VCF files).
 
