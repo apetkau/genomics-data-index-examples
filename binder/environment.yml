@@ -11,8 +11,8 @@ dependencies:
   - pyqt
   - iqtree
   - python=3.8
-  - bcftools
-  - htslib
+  - bcftools==1.13
+  - htslib==1.13
   - ete3
   - snpeff
 
@@ -22,5 +22,5 @@ dependencies:
 
   - pip
   - pip:
-    - genomics-data-index==0.6.0
+    - genomics-data-index==0.7.0
 prefix: /home/apetkau/miniconda3/envs/gdi
