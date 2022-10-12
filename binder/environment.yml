@@ -4,23 +4,17 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  # Need to restrict setuptools due to issue with pyvcf package
-  - setuptools<58
-
   - bedtools
   - pyqt
   - iqtree
-  - python=3.8
-  - bcftools==1.13
-  - htslib==1.13
+  - python>=3.8,<=3.9
+  - bcftools>=1.13
+  - htslib>=1.13
+  - bamtools
   - ete3
   - snpeff
-
-  # Set SQLAlchemy version here since previously version 1.3 was being installed
-  # and it is incompatible with genomics-data-index
-  - sqlalchemy>=1.4
-
+  - minimap2
   - pip
   - pip:
-    - genomics-data-index==0.7.0
+    - genomics-data-index==0.8.1
 prefix: /home/apetkau/miniconda3/envs/gdi

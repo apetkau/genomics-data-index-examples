@@ -1,5 +1,5 @@
 # Genomics data index examples
-[![Binder](https://mybinder.org/badge_logo.svg)][tutorial1-binder] 
+[![Binder](https://mybinder.org/badge_logo.svg)][tutorial1-binder]
 
 This repository contains examples for the [genomics-data-index][] project, which is a system which can index large amounts of genomics data and enable rapid querying of this data.
 
