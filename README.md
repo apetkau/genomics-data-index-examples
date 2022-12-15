@@ -41,10 +41,7 @@ conda install jupyterlab
 To run Jupyter you can run the following:
 
 ```bash
-# Setting the QT_QPA_PLATFORM variable is useful to avoid having to set the DISPLAY env variable for Qt
-# You can ignore setting this environment variable if you are running on a machine with an X server installed and configured
-
-QT_QPA_PLATFORM="offscreen" jupyter lab
+jupyter lab
 ```
 
 Please see the instructions for [Jupyter Lab][jupyter-docs] for details on using Jupyter.
