@@ -4,4 +4,5 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  - python==3.9
   - genomics-data-index==0.9.2
