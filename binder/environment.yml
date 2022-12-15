@@ -4,17 +4,4 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - bedtools
-  - pyqt
-  - iqtree
-  - python>=3.8,<=3.9
-  - bcftools>=1.13
-  - htslib>=1.13
-  - bamtools
-  - ete3
-  - snpeff
-  - minimap2
-  - pip
-  - pip:
-    - genomics-data-index==0.8.1
-prefix: /home/apetkau/miniconda3/envs/gdi
+  - genomics-data-index==0.9.2
